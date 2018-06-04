@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         new Button(this);
         //第一次看看能不能传明白
+        //呵呵 我看看
     }
 }
